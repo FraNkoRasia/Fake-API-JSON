@@ -1,0 +1,28 @@
+{
+  "name": "fake-api",
+  "version": "1.0.0",
+  "description": "base de datos falsa reutilizable",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:FraNkoRasia/Challenge-ALURAFLIX.git"
+  },
+  "keywords": [
+    "alura",
+    "alurageek",
+    "json-server",
+    "javascript",
+    "API"
+  ],
+  "author": "Franko, rasiafranko@gmail.com",
+  "license": "MIT",
+  "homepage": "https://github.com/FraNkoRasia/Challenge-ALURAFLIX",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
