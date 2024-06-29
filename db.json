@@ -1,4 +1,96 @@
 {
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Play Station Slim 5",
+      "precio": "685200",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_970771-MLA73347645092_122023-O.webp"
+    },
+    {
+      "id": "2",
+      "nombre": "Heladera Patrick",
+      "precio": "1198",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_776475-MLA43995982448_112020-O.webp"
+    },
+    {
+      "id": "3",
+      "nombre": "Lavarropas DREAM",
+      "precio": "1240000",
+      "imagen": "https://mancihogar.com.ar/wp-content/uploads/2020/04/6.09.jpg"
+    },
+    {
+      "id": "4",
+      "nombre": "Pava Electrica PHILIPS",
+      "precio": "259000",
+      "imagen": "https://images.fravega.com/f1000/054e150e13a3fa37f0ef8b381b5f1646.jpg"
+    },
+    {
+      "id": "5",
+      "nombre": "Soldadora Inverter Eléctrica Labor 120 Amperes Bajo Consumo",
+      "precio": "23638",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_847257-MLA52218913289_102022-O.webp"
+    },
+    {
+      "id": "6",
+      "nombre": "Multiprocesadora PHILIPS HR7300/90. 600W ",
+      "precio": "74959",
+      "imagen": "https://d2pr1pn9ywx3vo.cloudfront.net/spree/products/27671/large/PHHR7300.jpg?1676393305"
+    },
+    {
+      "id": "7",
+      "nombre": "Cortador De Verduras ",
+      "precio": "29900",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_815470-MLU72134953482_102023-O.webp"
+    },
+    {
+      "id": "8",
+      "nombre": "Exprimidora Para Jugo Naranja Electrica Oryx 100w Acero Inox",
+      "precio": "76949",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_697622-MLA54243089939_032023-O.webp"
+    },
+    {
+      "id": "9",
+      "nombre": "Aspiradora Robot Electrolux Home-e Speed Experience ERB10",
+      "precio": "299999",
+      "imagen": "https://electroluxar.vtexassets.com/arquivos/ids/163061/1.jpg?v=638385040855430000"
+    },
+    {
+      "id": "10",
+      "nombre": "Hidrolavadora Lusqtoff 1200w Alta Presion Autostop",
+      "precio": "132099",
+      "imagen": "https://pintureriasagitario.com.ar/wp-content/uploads/2020/11/HL-120.jpg"
+    },
+    {
+      "id": "11",
+      "nombre": "Lijadora Neumática Roto Orbital Einhell Tc-pe 150mm + Lijas",
+      "precio": "115113",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_652480-MLA72916916444_112023-O.webp"
+    },
+    {
+      "id": "12",
+      "nombre": "Cozeemax Cafetera Expresso y Capuccino, 15 Bares, Depósito 1,8 L, Función Calienta Tazas, 1350W, Acero Inoxidable",
+      "precio": "349999",
+      "imagen": "https://m.media-amazon.com/images/I/41FNjGmmlcL._AC_.jpg"
+    },
+    {
+      "id": "13",
+      "nombre": "Convertidor Smart Android Tv Box Mxq 4k HD ",
+      "precio": "99999",
+      "imagen": "https://pergaminopc.com.ar/wp-content/uploads/2018/04/tvbox2.jpg"
+    },
+    {
+      "id": "14",
+      "nombre": "Celular Samsung Galaxy S23 Ultra 256/8GB Phantom Black",
+      "precio": "2419999",
+      "imagen": "https://multipoint.com.ar/Image/0/750_750-[global-version]-sm-s918_galaxys23ultra_front_phantomblack_221122.jpg"
+    },
+    {
+      "id": "15",
+      "nombre": "Auriculares Bluetooth G20 Con Bluetooth",
+      "precio": "78000",
+      "imagen": "https://www.ubuy.uy/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzEydVF1K1RiQUwuX0FDX1NMMTUwMF8uanBn.jpg"
+    }
+  ],
   "peliculas": [
     {
       "id": "1",
