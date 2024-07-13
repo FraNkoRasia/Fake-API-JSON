@@ -224,19 +224,7 @@
       "director": "Jaume Collet-Serra",
       "actores": "Dwayne Johnson, Pierce Brosnan"
     },
-    {
-      "id": "11",
-      "titulo": "Flash",
-      "imagen": "https://www.uniminutoradio.com.co/wp-content/uploads/2023/06/TheFlash-TheFash-Poster.png",
-      "video": "https://www.youtube.com/embed/J6VNel82OEs?si=bD_68SAlkI5j2t5i",
-      "cartelera": "CIENCIA FICCIÓN",
-      "duracion": "1h 22min",
-      "sinopsis": "El velocista escarlata enfrenta amenazas que desafían las leyes del tiempo.",
-      "genero": "Ciencia Ficción",
-      "director": "Andy Muschietti",
-      "actores": "Ezra Miller, Michael Keaton"
-    },
-    {
+     {
       "id": "12",
       "titulo": "Un detective suelto en Hollywood: Axel F.",
       "imagen": "https://s3-eu-west-1.amazonaws.com/abandomedia/indie/foto/db_12286_5.jpg",
@@ -247,18 +235,6 @@
       "genero": "Acción, Comedia, Crimen",
       "director": "Mark Molloy",
       "actores": "Eddie Murphy, Joseph Gordon-Levitt, Taylour Paige, Judge Reinhold, John Ashton, Paul Reiser, Bronson Pinchot, Kevin Bacon, Luis Guzmán, Nasim Pedrad, Jameison Walker II, Tony Jones, Ed Cali, Brandon Edward Butler, Kyle S. More"
-    },
-    {
-      "id": "19",
-      "titulo": "6 En la Sombra",
-      "imagen": "https://es.web.img3.acsta.net/pictures/19/11/14/15/48/4049173.jpg",
-      "video": "https://www.youtube.com/embed/RyupOE9u22k?si=epjn9t-mNwNUUnxb",
-      "cartelera": "ACCIÓN",
-      "duracion": "1h 41min",
-      "sinopsis": "Un grupo de vigilantes intenta desmantelar un régimen dictatorial.",
-      "genero": "Acción",
-      "director": "Michael Bay",
-      "actores": "Ryan Reynolds, Mélanie Laurent"
     },
     {
       "id": "13",
@@ -331,6 +307,30 @@
       "genero": "Acción",
       "director": "Olivier Megaton",
       "actores": "Liam Neeson, Forest Whitaker"
+    },
+     {
+      "id": "19",
+      "titulo": "6 En la Sombra",
+      "imagen": "https://es.web.img3.acsta.net/pictures/19/11/14/15/48/4049173.jpg",
+      "video": "https://www.youtube.com/embed/RyupOE9u22k?si=epjn9t-mNwNUUnxb",
+      "cartelera": "ACCIÓN",
+      "duracion": "1h 41min",
+      "sinopsis": "Un grupo de vigilantes intenta desmantelar un régimen dictatorial.",
+      "genero": "Acción",
+      "director": "Michael Bay",
+      "actores": "Ryan Reynolds, Mélanie Laurent"
+    },
+    {
+      "id": "20",
+      "titulo": "Flash",
+      "imagen": "https://www.uniminutoradio.com.co/wp-content/uploads/2023/06/TheFlash-TheFash-Poster.png",
+      "video": "https://www.youtube.com/embed/J6VNel82OEs?si=bD_68SAlkI5j2t5i",
+      "cartelera": "CIENCIA FICCIÓN",
+      "duracion": "1h 22min",
+      "sinopsis": "El velocista escarlata enfrenta amenazas que desafían las leyes del tiempo.",
+      "genero": "Ciencia Ficción",
+      "director": "Andy Muschietti",
+      "actores": "Ezra Miller, Michael Keaton"
     }
   ]
 }
