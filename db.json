@@ -91,6 +91,7 @@
       "imagen": "https://www.ubuy.uy/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzEydVF1K1RiQUwuX0FDX1NMMTUwMF8uanBn.jpg"
     }
   ],
+  
   "peliculas": [
     {
       "id": "1",
@@ -333,6 +334,7 @@
       "actores": "Ezra Miller, Michael Keaton"
     }
   ],
+  
    "proyectos": [
     {
       "id": 1,
@@ -367,34 +369,35 @@
       "web": "https://challenge-alurageek-mu.vercel.app/index.html"
     }
   ],
+  
   "formacion": [
     {
       "id": 1,
       "imagen": "/image/certificados/certificadoProFinal.png",
       "url": "https://heyzine.com/flip-book/54a5586fcc.html",
       "institucion": "Egg-Live",
-      "descripcion": "Formación integral en desarrollo web, incluyendo HTML, CSS, JavaScript y React."
+      "descripcion": "Proyecto de empleabilidad, demostrando conocimientos en Java, Spring Boot, MySQL, CSS y HTML, desarrollando una solución web completa."
     },
     {
       "id": 2,
       "imagen": "/image/certificados/certificado_FullStackDeveloper.jpeg",
       "url": "https://heyzine.com/flip-book/3ea7c48971.html",
       "institucion": "Egg-Live",
-      "descripcion": "Formación integral en desarrollo web, incluyendo HTML, CSS, JavaScript y React."
+      "descripcion": "Desarrollador Full Stack con experiencia en Java, Spring Boot, MySQL, CSS y HTML, enfocado en la creación de aplicaciones web robustas y eficientes."
     },
     {
       "id": 3,
       "imagen": "/image/certificados/certificadoCodoACodo.png",
       "url": "https://heyzine.com/flip-book/b0996af5f3.html",
       "institucion": "Codo a Codo",
-      "descripcion": "Formación integral en desarrollo web, incluyendo HTML, CSS, JavaScript y React."
+      "descripcion": "Desarrollador Full Stack con formación en Node.js, Express y MySQL para el backend, y experiencia en CSS, HTML y manipulación del DOM para el frontend."
     },
     {
       "id": 4,
       "imagen": "/image/certificados/certificadoOracle.png",
       "url": "https://app.aluracursos.com/program/certificate/3e902b2c-32ad-4213-af70-4ad6da10dfb5?lang",
       "institucion": "Oracle + Alura Latam",
-      "descripcion": "Formación integral en desarrollo web, incluyendo HTML, CSS, JavaScript y React."
+      "descripcion": "Desarrollador Frontend con experiencia en React, JavaScript, HTML y CSS, especializado en crear interfaces web dinámicas y responsivas."
     }
   ]
 }
