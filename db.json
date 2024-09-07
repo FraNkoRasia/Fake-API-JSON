@@ -332,5 +332,70 @@
       "director": "Andy Muschietti",
       "actores": "Ezra Miller, Michael Keaton"
     }
+  ],
+  {
+  "proyectos": [
+    {
+      "id": 1,
+      "titulo": "Coria Servicios",
+      "descripcion": "'Coria Servicios' es una aplicación creada para atender las necesidades de los clientes, mientras ofrece oportunidades laborales a proveedores calificados en áreas esenciales como electricidad, agua y gas. El proyecto utiliza tecnologías como CSS, HTML, Java, Spring Boot y MySQL.",
+      "imagen": "/image/proyectos/servicios.avif",
+      "github": "https://github.com/FraNkoRasia/Proyecto-Final-En-Egg-Live",
+      "web": ""
+    },
+    {
+      "id": 2,
+      "titulo": "Sonica",
+      "descripcion": "'Sonica' es una plataforma web enfocada en ofrecer información sobre eventos y recitales, así como la venta de entradas. El frontend está desarrollado con HTML, CSS y JavaScript, mientras que el backend utiliza Node.js y Express. La base de datos está alojada en Alwaysdata.",
+      "imagen": "/image/proyectos/sonica.avif",
+      "github": "https://github.com/Pablo-r-stack/sonicaFront",
+      "web": "https://sonica-front.vercel.app/index.html"
+    },
+    {
+      "id": 3,
+      "titulo": "AluraGeek",
+      "descripcion": "Esta página web utiliza HTML, CSS y JavaScript para implementar un sistema CRUD de gestión de productos. Los usuarios pueden crear, ver, actualizar y eliminar productos, con manipulación dinámica del DOM y una base de datos simulada en JSON.",
+      "imagen": "/image/proyectos/aluraGeek.avif",
+      "github": "https://github.com/FraNkoRasia/Challenge--ALURAGEEK",
+      "web": "https://challenge-alurageek-mu.vercel.app/index.html"
+    },
+    {
+      "id": 4,
+      "titulo": "AluraFlix",
+      "descripcion": "AluraFlix es un proyecto que simula una aplicación web de un servidor de películas. La misma fue desarrollada con ReactJs + Vite + Jsonserver (servidor fake-api para consumo de datos que permite realizar un CRUD y poder visualizar los cambios).",
+      "imagen": "/image/proyectos/aluraFlix.avif",
+      "github": "https://github.com/FraNkoRasia/Challenge--ALURAGEEK",
+      "web": "https://challenge-alurageek-mu.vercel.app/index.html"
+    }
+  ],
+  "formacion": [
+    {
+      "id": 1,
+      "imagen": "/image/certificados/certificadoProFinal.png",
+      "url": "https://heyzine.com/flip-book/54a5586fcc.html",
+      "institucion": "Egg-Live",
+      "descripcion": "Formación integral en desarrollo web, incluyendo HTML, CSS, JavaScript y React."
+    },
+    {
+      "id": 2,
+      "imagen": "/image/certificados/certificado_FullStackDeveloper.jpeg",
+      "url": "https://heyzine.com/flip-book/3ea7c48971.html",
+      "institucion": "Egg-Live",
+      "descripcion": "Formación integral en desarrollo web, incluyendo HTML, CSS, JavaScript y React."
+    },
+    {
+      "id": 3,
+      "imagen": "/image/certificados/certificadoCodoACodo.png",
+      "url": "https://heyzine.com/flip-book/b0996af5f3.html",
+      "institucion": "Codo a Codo",
+      "descripcion": "Formación integral en desarrollo web, incluyendo HTML, CSS, JavaScript y React."
+    },
+    {
+      "id": 4,
+      "imagen": "/image/certificados/certificadoOracle.png",
+      "url": "https://app.aluracursos.com/program/certificate/3e902b2c-32ad-4213-af70-4ad6da10dfb5?lang",
+      "institucion": "Oracle + Alura Latam",
+      "descripcion": "Formación integral en desarrollo web, incluyendo HTML, CSS, JavaScript y React."
+    }
   ]
 }
