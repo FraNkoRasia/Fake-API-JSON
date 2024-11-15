@@ -367,6 +367,14 @@
       "imagen": "/image/proyectos/aluraFlix.avif",
       "github": "https://github.com/FraNkoRasia/Challenge-ALURAFLIX",
       "web": "https://challenge-aluraflix-alpha.vercel.app/"
+    },
+    {
+      "id": 5,
+      "titulo": "Cut & Style",
+      "descripcion": "CUT & STYLE es una plataforma que conecta clientes con peluquerías y barberos mediante un mapa interactivo. Permite encontrar peluquerías cercanas, ver barberos disponibles y sus especialidades. Los dueños pueden registrar su negocio y llegar a más clientes fácilmente.",
+      "imagen": "/image/proyectos/CutStyle.webp",
+      "github": "https://github.com/FraNkoRasia/CUT-STYLE",
+      "web": ""
     }
   ],
   
