@@ -406,6 +406,13 @@
       "url": "https://app.aluracursos.com/program/certificate/3e902b2c-32ad-4213-af70-4ad6da10dfb5?lang",
       "institucion": "Oracle + Alura Latam",
       "descripcion": "Desarrollador Frontend con experiencia en React, JavaScript, HTML y CSS, especializado en crear interfaces web dinámicas y responsivas."
+    },
+    {
+      "id": 5,
+      "imagen": "/image/certificados/certificadoNoCountry.webp",
+      "url": "https://heyzine.com/flip-book/fad694641a.html",
+      "institucion": "No-Country",
+      "descripcion": "Desarrollador Frontend con experiencia en React, JavaScript, HTML y CSS, especializado en crear interfaces web dinámicas y responsivas."
     }
   ]
 }
