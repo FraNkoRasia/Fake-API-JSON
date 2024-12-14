@@ -340,7 +340,7 @@
       "id": 1,
       "titulo": "Coria Servicios",
       "descripcion": "'Coria Servicios' es una aplicación creada para atender las necesidades de los clientes, mientras ofrece oportunidades laborales a proveedores calificados en áreas esenciales como electricidad, agua y gas. El proyecto utiliza tecnologías como CSS, HTML, Java, Spring Boot y MySQL.",
-      "imagen": "/image/proyectos/servicios.avif",
+      "imagen": "/image/proyectos/servicios.webp",
       "github": "https://github.com/FraNkoRasia/Proyecto-Final-En-Egg-Live",
       "web": ""
     },
@@ -348,7 +348,7 @@
       "id": 2,
       "titulo": "Sonica",
       "descripcion": "'Sonica' es una plataforma web enfocada en ofrecer información sobre eventos y recitales, así como la venta de entradas. El frontend está desarrollado con HTML, CSS y JavaScript, mientras que el backend utiliza Node.js y Express. La base de datos está alojada en Alwaysdata.",
-      "imagen": "/image/proyectos/sonica.avif",
+      "imagen": "/image/proyectos/sonica.webp",
       "github": "https://github.com/Pablo-r-stack/sonicaFront",
       "web": "https://sonica-front.vercel.app/index.html"
     },
@@ -356,7 +356,7 @@
       "id": 3,
       "titulo": "AluraGeek",
       "descripcion": "Esta página web utiliza HTML, CSS y JavaScript para implementar un sistema CRUD de gestión de productos. Los usuarios pueden crear, ver, actualizar y eliminar productos, con manipulación dinámica del DOM y una base de datos simulada en JSON.",
-      "imagen": "/image/proyectos/aluraGeek.avif",
+      "imagen": "/image/proyectos/aluraGeek.webp",
       "github": "https://github.com/FraNkoRasia/Challenge--ALURAGEEK",
       "web": "https://challenge-alurageek-mu.vercel.app/index.html"
     },
@@ -364,7 +364,7 @@
       "id": 4,
       "titulo": "AluraFlix",
       "descripcion": "AluraFlix es un proyecto que simula una aplicación web de un servidor de películas. La misma fue desarrollada con ReactJs + Vite + Jsonserver (servidor fake-api para consumo de datos que permite realizar un CRUD y poder visualizar los cambios).",
-      "imagen": "/image/proyectos/aluraFlix.avif",
+      "imagen": "/image/proyectos/aluraFlix.webp",
       "github": "https://github.com/FraNkoRasia/Challenge-ALURAFLIX",
       "web": "https://challenge-aluraflix-alpha.vercel.app/"
     },
@@ -381,28 +381,28 @@
   "formacion": [
     {
       "id": 1,
-      "imagen": "/image/certificados/certificadoProFinal.png",
+      "imagen": "/image/certificados/certificadoProFinal.webp",
       "url": "https://heyzine.com/flip-book/54a5586fcc.html",
       "institucion": "Egg-Live",
       "descripcion": "Proyecto de empleabilidad, demostrando conocimientos en Java, Spring Boot, MySQL, CSS y HTML, desarrollando una solución web completa."
     },
     {
       "id": 2,
-      "imagen": "/image/certificados/certificado_FullStackDeveloper.jpeg",
+      "imagen": "/image/certificados/certificado_FullStackDeveloper.webp",
       "url": "https://heyzine.com/flip-book/3ea7c48971.html",
       "institucion": "Egg-Live",
       "descripcion": "Desarrollador Full Stack con experiencia en Java, Spring Boot, MySQL, CSS y HTML, enfocado en la creación de aplicaciones web robustas y eficientes."
     },
     {
       "id": 3,
-      "imagen": "/image/certificados/certificadoCodoACodo.png",
+      "imagen": "/image/certificados/certificadoCodoACodo.webp",
       "url": "https://heyzine.com/flip-book/b0996af5f3.html",
       "institucion": "Codo a Codo",
       "descripcion": "Desarrollador Full Stack con formación en Node.js, Express y MySQL para el backend, y experiencia en CSS, HTML y manipulación del DOM para el frontend."
     },
     {
       "id": 4,
-      "imagen": "/image/certificados/certificadoOracle.png",
+      "imagen": "/image/certificados/certificadoOracle.webp",
       "url": "https://app.aluracursos.com/program/certificate/3e902b2c-32ad-4213-af70-4ad6da10dfb5?lang",
       "institucion": "Oracle + Alura Latam",
       "descripcion": "Desarrollador Frontend con experiencia en React, JavaScript, HTML y CSS, especializado en crear interfaces web dinámicas y responsivas."
