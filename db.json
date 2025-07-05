@@ -375,6 +375,22 @@
       "imagen": "/image/proyectos/CutStyle.webp",
       "github": "https://github.com/FraNkoRasia/CUT-STYLE",
       "web": ""
+    },
+     {
+      "id": 6,
+      "titulo": "AlmaPage",
+      "descripcion": "AlmaPage es una landing page moderna y responsiva desarrollada para un camping turístico. Utiliza React y Tailwind CSS para ofrecer una experiencia visual atractiva, rápida y adaptable a todos los dispositivos. El diseño transmite una sensación de naturaleza y tranquilidad, ideal para captar la atención de potenciales visitantes.",
+      "imagen": "/image/proyectos/almapage.webp",
+      "github": "https://github.com/FraNkoRasia/AlmaPage",
+      "web": "https://alma-page.vercel.app/"
+    },
+    {
+      "id": 7,
+      "titulo": "SIPPA",
+      "descripcion": "SIPPA (Sistema Integral de Personal para Planta de Faena) es una plataforma web diseñada para la gestión y administración de empleados en plantas industriales. Permite controlar asistencias, vacaciones, suspensiones, generar recibos de sueldo y acceder al historial laboral de cada operario. Está enfocada en optimizar los procesos de RRHH mediante una interfaz clara y funcional.",
+      "imagen": "/image/proyectos/sippa.webp",
+      "github": "",
+      "web": "https://sippa-two.vercel.app/"
     }
   ],
   
