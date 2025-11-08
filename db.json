@@ -391,7 +391,12 @@
     "id": 7,
     "titulo": "SIPPA",
     "descripcion": "SIPPA (Sistema Integral de Personal de Planta y Administrativo) es una plataforma web diseñada para la gestión y administración de empleados en plantas industriales. Permite controlar asistencias, vacaciones, suspensiones, generar recibos de sueldo y acceder al historial laboral de cada operario. Está enfocada en optimizar los procesos de RRHH mediante una interfaz clara y funcional.",
-    "imagen": "/image/proyectos/sippa.webp",
+     "imagenes": [
+      "/image/proyectos/sippa.webp",
+      "/image/proyectos/sippa2.webp",
+      "/image/proyectos/sippa3.webp",
+      "/image/proyectos/sippa4.webp"
+    ],
     "github": "",
     "web": "https://sippa-two.vercel.app/"
   },
