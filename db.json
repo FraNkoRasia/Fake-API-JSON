@@ -336,77 +336,76 @@
   ],
   
    "proyectos": [
-    {
-      "id": 1,
-      "titulo": "Coria Servicios",
-      "descripcion": "'Coria Servicios' es una aplicación creada para atender las necesidades de los clientes, mientras ofrece oportunidades laborales a proveedores calificados en áreas esenciales como electricidad, agua y gas. El proyecto utiliza tecnologías como CSS, HTML, Java, Spring Boot y MySQL.",
-      "imagen": "/image/proyectos/servicios.webp",
-      "github": "https://github.com/FraNkoRasia/Proyecto-Final-En-Egg-Live",
-      "web": ""
-    },
-    {
-      "id": 2,
-      "titulo": "Sonica",
-      "descripcion": "'Sonica' es una plataforma web enfocada en ofrecer información sobre eventos y recitales, así como la venta de entradas. El frontend está desarrollado con HTML, CSS y JavaScript, mientras que el backend utiliza Node.js y Express. La base de datos está alojada en Alwaysdata.",
-      "imagen": "/image/proyectos/sonica.webp",
-      "github": "https://github.com/Pablo-r-stack/sonicaFront",
-      "web": "https://sonica-front.vercel.app/index.html"
-    },
-    {
-      "id": 3,
-      "titulo": "AluraGeek",
-      "descripcion": "Esta página web utiliza HTML, CSS y JavaScript para implementar un sistema CRUD de gestión de productos. Los usuarios pueden crear, ver, actualizar y eliminar productos, con manipulación dinámica del DOM y una base de datos simulada en JSON.",
-      "imagen": "/image/proyectos/aluraGeek.webp",
-      "github": "https://github.com/FraNkoRasia/Challenge--ALURAGEEK",
-      "web": "https://challenge-alurageek-mu.vercel.app/index.html"
-    },
-    {
-      "id": 4,
-      "titulo": "AluraFlix",
-      "descripcion": "AluraFlix es un proyecto que simula una aplicación web de un servidor de películas. La misma fue desarrollada con ReactJs + Vite + Jsonserver (servidor fake-api para consumo de datos que permite realizar un CRUD y poder visualizar los cambios).",
-      "imagen": "/image/proyectos/aluraFlix.webp",
-      "github": "https://github.com/FraNkoRasia/Challenge-ALURAFLIX",
-      "web": "https://challenge-aluraflix-alpha.vercel.app/"
-    },
-    {
-      "id": 5,
-      "titulo": "Cut & Style",
-      "descripcion": "CUT & STYLE es una plataforma que conecta clientes con peluquerías y barberos mediante un mapa interactivo. Permite encontrar peluquerías cercanas, ver barberos disponibles y sus especialidades. Los dueños pueden registrar su negocio y llegar a más clientes fácilmente.",
-      "imagen": "/image/proyectos/CutStyle.webp",
-      "github": "https://github.com/FraNkoRasia/CUT-STYLE",
-      "web": ""
-    },
-     {
-      "id": 6,
-      "titulo": "AlmaPage",
-      "descripcion": "AlmaPage es una landing page moderna y responsiva desarrollada para un camping turístico. Utiliza React y Tailwind CSS para ofrecer una experiencia visual atractiva, rápida y adaptable a todos los dispositivos. El diseño transmite una sensación de naturaleza y tranquilidad, ideal para captar la atención de potenciales visitantes.",
-      "imagen": "/image/proyectos/almapage.webp",
-      "github": "https://github.com/FraNkoRasia/AlmaPage",
-      "web": "https://alma-page.vercel.app/"
-    },
-    {
-      "id": 7,
-      "titulo": "SIPPA",
-      "descripcion": "SIPPA (Sistema Integral de Personal de Planta y Administrativo) es una plataforma web diseñada para la gestión y administración de empleados en plantas industriales. Permite controlar asistencias, vacaciones, suspensiones, generar recibos de sueldo y acceder al historial laboral de cada operario. Está enfocada en optimizar los procesos de RRHH mediante una interfaz clara y funcional.",
-      "imagen": "/image/proyectos/sippa.webp",
-      "github": "",
-      "web": "https://sippa-two.vercel.app/"
-    }
-{
-  "id": 4,
-  "titulo": "MORA PILATES",
-"descripcion": "MORA PILATES es una plataforma web para la gestión integral de un gimnasio de pilates. Cuenta con cuatro roles: alumnos, profesores, administrativos y superadministrador. Permite administrar usuarios, crear planes, generar cuotas y visualizar reportes financieros, optimizando la organización y comunicación interna.",
-  "imagenes": [
-    "/image/proyectos/aluraFlix.webp",
-    "/image/proyectos/aluraFlix2.webp",
-    "/image/proyectos/aluraFlix3.webp"
-  ],
-  "github": "https://github.com/FraNkoRasia/Challenge-ALURAFLIX",
-  "web": "https://challenge-aluraflix-alpha.vercel.app/"
-}
+  {
+    "id": 1,
+    "titulo": "Coria Servicios",
+    "descripcion": "'Coria Servicios' es una aplicación creada para atender las necesidades de los clientes, mientras ofrece oportunidades laborales a proveedores calificados en áreas esenciales como electricidad, agua y gas. El proyecto utiliza tecnologías como CSS, HTML, Java, Spring Boot y MySQL.",
+    "imagen": "/image/proyectos/servicios.webp",
+    "github": "https://github.com/FraNkoRasia/Proyecto-Final-En-Egg-Live",
+    "web": ""
+  },
+  {
+    "id": 2,
+    "titulo": "Sonica",
+    "descripcion": "'Sonica' es una plataforma web enfocada en ofrecer información sobre eventos y recitales, así como la venta de entradas. El frontend está desarrollado con HTML, CSS y JavaScript, mientras que el backend utiliza Node.js y Express. La base de datos está alojada en Alwaysdata.",
+    "imagen": "/image/proyectos/sonica.webp",
+    "github": "https://github.com/Pablo-r-stack/sonicaFront",
+    "web": "https://sonica-front.vercel.app/index.html"
+  },
+  {
+    "id": 3,
+    "titulo": "AluraGeek",
+    "descripcion": "Esta página web utiliza HTML, CSS y JavaScript para implementar un sistema CRUD de gestión de productos. Los usuarios pueden crear, ver, actualizar y eliminar productos, con manipulación dinámica del DOM y una base de datos simulada en JSON.",
+    "imagen": "/image/proyectos/aluraGeek.webp",
+    "github": "https://github.com/FraNkoRasia/Challenge--ALURAGEEK",
+    "web": "https://challenge-alurageek-mu.vercel.app/index.html"
+  },
+  {
+    "id": 4,
+    "titulo": "AluraFlix",
+    "descripcion": "AluraFlix es un proyecto que simula una aplicación web de un servidor de películas. La misma fue desarrollada con ReactJs + Vite + Jsonserver (servidor fake-api para consumo de datos que permite realizar un CRUD y poder visualizar los cambios).",
+    "imagen": "/image/proyectos/aluraFlix.webp",
+    "github": "https://github.com/FraNkoRasia/Challenge-ALURAFLIX",
+    "web": "https://challenge-aluraflix-alpha.vercel.app/"
+  },
+  {
+    "id": 5,
+    "titulo": "Cut & Style",
+    "descripcion": "CUT & STYLE es una plataforma que conecta clientes con peluquerías y barberos mediante un mapa interactivo. Permite encontrar peluquerías cercanas, ver barberos disponibles y sus especialidades. Los dueños pueden registrar su negocio y llegar a más clientes fácilmente.",
+    "imagen": "/image/proyectos/CutStyle.webp",
+    "github": "https://github.com/FraNkoRasia/CUT-STYLE",
+    "web": ""
+  },
+  {
+    "id": 6,
+    "titulo": "AlmaPage",
+    "descripcion": "AlmaPage es una landing page moderna y responsiva desarrollada para un camping turístico. Utiliza React y Tailwind CSS para ofrecer una experiencia visual atractiva, rápida y adaptable a todos los dispositivos. El diseño transmite una sensación de naturaleza y tranquilidad, ideal para captar la atención de potenciales visitantes.",
+    "imagen": "/image/proyectos/almapage.webp",
+    "github": "https://github.com/FraNkoRasia/AlmaPage",
+    "web": "https://alma-page.vercel.app/"
+  },
+  {
+    "id": 7,
+    "titulo": "SIPPA",
+    "descripcion": "SIPPA (Sistema Integral de Personal de Planta y Administrativo) es una plataforma web diseñada para la gestión y administración de empleados en plantas industriales. Permite controlar asistencias, vacaciones, suspensiones, generar recibos de sueldo y acceder al historial laboral de cada operario. Está enfocada en optimizar los procesos de RRHH mediante una interfaz clara y funcional.",
+    "imagen": "/image/proyectos/sippa.webp",
+    "github": "",
+    "web": "https://sippa-two.vercel.app/"
+  },
+  {
+    "id": 8,
+    "titulo": "MORA PILATES",
+    "descripcion": "MORA PILATES es una plataforma web para la gestión integral de un gimnasio de pilates. Cuenta con cuatro roles: alumnos, profesores, administrativos y superadministrador. Permite administrar usuarios, crear planes, generar cuotas y visualizar reportes financieros, optimizando la organización y comunicación interna.",
+    "imagenes": [
+      "/image/proyectos/aluraFlix.webp",
+      "/image/proyectos/aluraFlix2.webp",
+      "/image/proyectos/aluraFlix3.webp"
+    ],
+    "github": "",
+    "web": ""
+  }
+],
 
-
-  ],
   
   "formacion": [
     {
