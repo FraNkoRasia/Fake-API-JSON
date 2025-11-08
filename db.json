@@ -360,11 +360,14 @@
     "github": "https://github.com/FraNkoRasia/Challenge--ALURAGEEK",
     "web": "https://challenge-alurageek-mu.vercel.app/index.html"
   },
-  {
+{
     "id": 4,
     "titulo": "AluraFlix",
     "descripcion": "AluraFlix es un proyecto que simula una aplicación web de un servidor de películas. La misma fue desarrollada con ReactJs + Vite + Jsonserver (servidor fake-api para consumo de datos que permite realizar un CRUD y poder visualizar los cambios).",
-    "imagen": "/image/proyectos/aluraFlix.webp",
+    "imagenes": [
+      "/image/proyectos/aluraFlix.webp",
+      "/image/proyectos/aluraFlix2.webp"
+  ],
     "github": "https://github.com/FraNkoRasia/Challenge-ALURAFLIX",
     "web": "https://challenge-aluraflix-alpha.vercel.app/"
   },
