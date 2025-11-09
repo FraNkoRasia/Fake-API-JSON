@@ -348,7 +348,11 @@
     "id": 2,
     "titulo": "Sonica",
     "descripcion": "'Sonica' es una plataforma web enfocada en ofrecer información sobre eventos y recitales, así como la venta de entradas. El frontend está desarrollado con HTML, CSS y JavaScript, mientras que el backend utiliza Node.js y Express. La base de datos está alojada en Alwaysdata.",
-    "imagen": "/image/proyectos/sonica.webp",
+    "imagenes": [
+      "/image/proyectos/sonica.webp",
+      "/image/proyectos/sonica2.webp",
+      "/image/proyectos/sonica3.webp"
+    ],
     "github": "https://github.com/Pablo-r-stack/sonicaFront",
     "web": "https://sonica-front.vercel.app/index.html"
   },
@@ -360,8 +364,16 @@
     "github": "https://github.com/FraNkoRasia/Challenge--ALURAGEEK",
     "web": "https://challenge-alurageek-mu.vercel.app/index.html"
   },
-{
+      {
     "id": 4,
+    "titulo": "Cut & Style",
+    "descripcion": "CUT & STYLE es una plataforma que conecta clientes con peluquerías y barberos mediante un mapa interactivo. Permite encontrar peluquerías cercanas, ver barberos disponibles y sus especialidades. Los dueños pueden registrar su negocio y llegar a más clientes fácilmente.",
+    "imagen": "/image/proyectos/CutStyle.webp",
+    "github": "https://github.com/FraNkoRasia/CUT-STYLE",
+    "web": ""
+  },
+  {
+    "id": 5,
     "titulo": "AluraFlix",
     "descripcion": "AluraFlix es un proyecto que simula una aplicación web de un servidor de películas. La misma fue desarrollada con ReactJs + Vite + Jsonserver (servidor fake-api para consumo de datos que permite realizar un CRUD y poder visualizar los cambios).",
     "imagenes": [
@@ -371,15 +383,7 @@
     "github": "https://github.com/FraNkoRasia/Challenge-ALURAFLIX",
     "web": "https://challenge-aluraflix-alpha.vercel.app/"
   },
-  {
-    "id": 5,
-    "titulo": "Cut & Style",
-    "descripcion": "CUT & STYLE es una plataforma que conecta clientes con peluquerías y barberos mediante un mapa interactivo. Permite encontrar peluquerías cercanas, ver barberos disponibles y sus especialidades. Los dueños pueden registrar su negocio y llegar a más clientes fácilmente.",
-    "imagen": "/image/proyectos/CutStyle.webp",
-    "github": "https://github.com/FraNkoRasia/CUT-STYLE",
-    "web": ""
-  },
-  {
+   {
     "id": 6,
     "titulo": "AlmaPage",
     "descripcion": "AlmaPage es una landing page moderna y responsiva desarrollada para un camping turístico. Utiliza React y Tailwind CSS para ofrecer una experiencia visual atractiva, rápida y adaptable a todos los dispositivos. El diseño transmite una sensación de naturaleza y tranquilidad, ideal para captar la atención de potenciales visitantes.",
@@ -407,7 +411,8 @@
     "imagenes": [
       "/image/proyectos/mora1.webp",
       "/image/proyectos/mora2.webp",
-      "/image/proyectos/mora3.webp"
+      "/image/proyectos/mora3.webp",
+      "/image/proyectos/mora4.webp"
     ],
     "github": "",
     "web": ""
